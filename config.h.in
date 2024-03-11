@@ -1,2 +1,0 @@
-#define InsomniaDB_VERSION_MAJOR @InsomniaDB_VERSION_MAJOR@
-#define InsomniaDB_VERSION_MINOR @InsomniaDB_VERSION_MINOR@
