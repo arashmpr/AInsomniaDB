@@ -13,7 +13,7 @@ build:
 
 # Run target
 run:
-	$(GORUN) ./ainsomnia run
+	$(GORUN) ainsomnia.go
 
 # Clean target
 clean:
